@@ -44,11 +44,15 @@ npm run build
 ```
 This generates the optimized static files into the `out/` directory.
 
-## 📬 Contact
+## 📬 Connect & Contact
 
-- **Email:** akbarfarooq2006@gmail.com
+- **Email:** [akbarfarooq2006@gmail.com](mailto:akbarfarooq2006@gmail.com)
 - **Website:** [akbarfarooq.github.io](https://akbarfarooq.github.io)
+- **LinkedIn:** [linkedin.com/in/akbarfarooq](https://www.linkedin.com/in/akbarfarooq/)
 - **GitHub:** [@akbarfarooq](https://github.com/akbarfarooq)
+- **X / Twitter:** [@akbarfarooq_ai](https://x.com/akbarfarooq_ai)
+- **Facebook:** [akbarfarooqai](https://www.facebook.com/akbarfarooqai)
+- **Instagram:** [@akbarfarooq.ai](https://www.instagram.com/akbarfarooq.ai/)
 
 ---
 *Built with precision and purpose.*

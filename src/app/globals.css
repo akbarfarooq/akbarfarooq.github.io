@@ -63,6 +63,9 @@
   * {
     @apply border-border;
   }
+  html {
+    scroll-behavior: smooth;
+  }
   html, body {
     @apply bg-background text-foreground antialiased selection:bg-accent selection:text-text-inverse;
     overflow-x: clip;

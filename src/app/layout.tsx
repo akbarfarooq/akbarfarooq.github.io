@@ -32,10 +32,17 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Akbar Farooq — Full Stack Web & Agentic AI Developer',
+  title: 'Akbar Farooq',
   description: 'Official portfolio of Akbar Farooq. Building autonomous agent systems, robust distributed web architectures, and tactile human-AI interfaces.',
   keywords: ['Akbar Farooq', 'Full Stack Developer', 'Agentic AI', 'Next.js', 'React', 'OpenAI Agents SDK'],
   authors: [{ name: 'Akbar Farooq' }],
+  icons: {
+    icon: [
+      { url: '/icon.svg', type: 'image/svg+xml' },
+    ],
+    shortcut: '/icon.svg',
+    apple: '/icon.svg',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
