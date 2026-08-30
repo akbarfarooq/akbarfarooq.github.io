@@ -21,7 +21,7 @@ import {
 
 export default function Portfolio() {
   const [copied, setCopied] = React.useState(false);
-  const email = 'contact@akbarfarooq.dev';
+  const email = 'akbarfarooq2006@gmail.com';
 
   const handleCopyEmail = () => {
     navigator.clipboard.writeText(email);

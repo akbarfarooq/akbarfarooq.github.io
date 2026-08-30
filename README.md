@@ -46,6 +46,7 @@ This generates the optimized static files into the `out/` directory.
 
 ## 📬 Contact
 
+- **Email:** akbarfarooq2006@gmail.com
 - **Website:** [akbarfarooq.github.io](https://akbarfarooq.github.io)
 - **GitHub:** [@akbarfarooq](https://github.com/akbarfarooq)
 
